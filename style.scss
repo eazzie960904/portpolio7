@@ -223,6 +223,7 @@ input {
   display: flex;
   gap: 20px;
   transition: transform 0.5s ease;
+  overflow: hidden;
 }
 .slides li {
   width: 240px;
